@@ -1,25 +1,27 @@
 TOTAL_STRING:00000891
 #=====================
 [00000000]
-English translation by: chopp2
+English translation: chopp2 
 Credits: Gil_Unx and 1vierock
-You can find this in progress project on github
+You can find this in progress project on github.
+We might need your help!
 ---------------------------------------------
 [00000001]
-This is what we got if we loose sight for a moment.
-Seem they have some guts for entering Village Garden.
+This is what we get if we loose sight for 
+a moment. Seem they have some guts for 
+entering Village Garden.
 ---------------------------------------------
 [00000002]
 No problem, right?
-Besides, we also can do training nearby.
+Besides, we can do training nearby too.
 ---------------------------------------------
 [00000003]
 What do you mean by training [{21}]Gino[{20}]?
-You'll just watch from behind as always anyway.
+You'll watch from behind as always anyway.
 ---------------------------------------------
 [00000004]
-I'm not just watching the two of you!
-My training starts when you've done your job.
+I won't be just watching the two of you!
+My training starts when you finish yours.
 ---------------------------------------------
 [00000005]
 Training, eh?
@@ -27,30 +29,31 @@ Training, eh?
 [00000006]
 You're right...
 If that legend is true...
-Then, this year is "The 100th year"
+Then, this year is "The 100th year".
 ---------------------------------------------
 [00000007]
-[{P_NAME}]？ Did you say anything?
+[{P_NAME}]? Did you say anything?
 ---------------------------------------------
 [00000008]
 Ah, it's nothing [{21}]Myura[{20}].
 ---------------------------------------------
 [00000009]
 I'm just thinking, is it really a good thing 
-if we point our weapon against living beings 
-for training?
+to point our swords against living beings 
+just for training?
 ---------------------------------------------
 [00000010]
 But, this is just my own thought because
 if we don't exterminate the Soldier Boares,
-they will attack people... and we need training.
+they will attack other people... 
+And it's true that we need training.
 ---------------------------------------------
 [00000011]
 You're thinking about that again?
 You're so serious, [{P_NAME}].
 ---------------------------------------------
 [00000012]
-Well, if you don't care about such things, 
+Well, if we don't care about such things, 
 I won't be able to stand face to face with
 [{21}]Signii[{20}].
 ---------------------------------------------
