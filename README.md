@@ -1,7 +1,13 @@
 # Genso Suikoden: Tsumugareshi Hyakunen no Toki - English translation project
 We need translators!
 
-Do you want to help!? https://github.com/fsantecchia/Suikoden-PSP-translation-project/discussions/2
+Do you want to help!?
+
+https://github.com/fsantecchia/Suikoden-PSP-translation-project/discussions/2
+
+# Demo
+
+https://drive.google.com/file/d/1HnO-3adXZkmbHJfhu2oS0dOcIdboN3_x/view?usp=sharing
 
 # Progress
 Text blocks: 8 / 17002
