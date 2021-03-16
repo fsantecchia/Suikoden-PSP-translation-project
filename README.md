@@ -14,8 +14,8 @@ Text blocks: 8 / 17002
 
 Cinematics: 0 / 17
 
-[In Progress] 00000054.txt: chopp2
-[In Progress] 00000055.txt: pilocomon
+- [In Progress] 00000054.txt: chopp2
+- [In Progress] 00000055.txt: pilocomon
 
 **15 March 2021**
 
