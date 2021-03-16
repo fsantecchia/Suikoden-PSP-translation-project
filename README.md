@@ -14,6 +14,9 @@ Text blocks: 8 / 17002
 
 Cinematics: 0 / 17
 
+[In Progress] 00000054.txt: chopp2
+[In Progress] 00000055.txt: pilocomon
+
 **15 March 2021**
 
 Everything is in place to start working on this translation! Original texts, cinematics and all the utils that we need to rebuild and test the game. Would you like to help? We need translators! The idea is to start contributing to this repo so we can translate this game once for all.
