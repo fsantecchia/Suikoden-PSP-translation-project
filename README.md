@@ -1,3 +1,5 @@
+# Deprecated repo, working together with Twisted Phoenix to finish this translation!
+
 # Genso Suikoden: Tsumugareshi Hyakunen no Toki - English translation project
 We need translators!
 
@@ -15,7 +17,6 @@ Text blocks: 8 / 17002
 Cinematics: 0 / 17
 
 - [In Progress] 00000054.txt: chopp2
-- [In Progress] 00000055.txt: pilocomon
 
 **15 March 2021**
 
