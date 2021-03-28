@@ -1,4 +1,4 @@
-# Deprecated repo, working together with Twisted Phoenix to finish this translation!
+## Deprecated repo, working together with Twisted Phoenix to finish this translation!
 
 # Genso Suikoden: Tsumugareshi Hyakunen no Toki - English translation project
 We need translators!
